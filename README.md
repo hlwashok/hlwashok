@@ -10,6 +10,14 @@
   <em>A curious computer geek and lifelong learner from India 🇮🇳</em>
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=hlwashok&style=for-the-badge&color=0A66C2"
+    alt="Profile Views"
+  />
+</p>
+
 <strong>JavaScript • React • Node • Express • MongoDB</strong>
 
 </div>
@@ -32,6 +40,8 @@ I’m **Ashok**, a **MERN Stack Developer** who builds **end-to-end web applicat
 ---
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Tech Stack:
+
+<img width="40%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
 ### 🚀 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -90,57 +100,52 @@ I’m **Ashok**, a **MERN Stack Developer** who builds **end-to-end web applicat
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **GitHub Stats**
 
 <p align="left">
-  <!-- Overall GitHub Stats -->
   <img
-    src="https://github-readme-stats-tau-dusky-17.vercel.app/api?username=hlwashok&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats for hlwashok"
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api?username=hlwashok&show_icons=true&theme=github_dark"
+    width="420"
+    alt="GitHub Stats"
   />
-
-  <!-- Top Languages Used -->
   <img
-    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/top-langs/?username=hlwashok&layout=compact&theme=github_dark&langs_count=8"
-    height="180"
-    alt="Top Languages for hlwashok"
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/top-langs/?username=hlwashok&layout=compact&langs_count=8&theme=github_dark"
+    width="375"
+    alt="Top Languages"
   />
 </p>
 
 
+## 📈 Contribution Graph
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hlwashok&theme=github-dark)
 
-
-## 🏗 Project Showcase (Auto-Updating)
-
-> These cards automatically update based on repository activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=transparent" />
-</p>
-
-📌 *Replace `YOUR_GITHUB_USERNAME` and `REPO_NAME` with your actual repo names.*
 
 ---
 
-## 📊 GitHub Activity & Contributions
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" />
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🧩 Development Principles
 
-```text
-• Code for humans first
-• Keep things simple and modular
-• Debug by understanding, not guessing
-• Build small → scale smart
+## 🏗 Project Showcase 
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/pin/?username=hlwashok&repo=Ashok_Portfoilo&theme=github_dark"
+    width="420"
+    alt="Ashok Portfolio Project"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/pin/?username=hlwashok&repo=Learnova&theme=github_dark"
+    width="420"
+    alt="Ashok Portfolio Project"
+  />
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=16"/>
