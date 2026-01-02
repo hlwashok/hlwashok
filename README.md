@@ -1,6 +1,4 @@
-<!-- ========================================================= -->
-<!--                ASHOK — GITHUB PROFILE README              -->
-<!-- ========================================================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hi%20There%20👋,%20I'm%20Ashok%20%20&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="Hi There 👋, I'm Ashok" />
 
 <div align="center">
 
@@ -8,48 +6,108 @@
 
 <br/>
 
+<p align="center">
+  <em>A curious computer geek and lifelong learner from India 🇮🇳</em>
+</p>
+
 <strong>JavaScript • React • Node • Express • MongoDB</strong>
 
 </div>
 
 ---
 
-## 🧭 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-I’m **Ashok**, a **MERN Stack Developer** who builds **end-to-end web applications** with a focus on **clarity, scalability, and real-world usability**.
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-I enjoy working across the stack — from designing APIs to crafting responsive user interfaces.
+I’m **Ashok**, a **MERN Stack Developer** who builds **end-to-end web applications** with a focus on **clarity, scalability, and real-world usability**. I enjoy working across the stack — from designing APIs to crafting responsive user interfaces.
 
-> My goal is simple: **write code that works, scales, and is easy to understand.**
+- 🌱 Currently diving deep into **MERN Development**
+- 💼 Check out my portfolio: [Ashok-Portfolio](https://ashok-portfoilo.vercel.app/)
+- 📧 Reach me at: **hlwashok@gmail.com**
+- 📄 View my [Resume](https://drive.google.com/file/d/1cUw1NXDPh_1_hT8izIFgldopTIIeVwAm/view?usp=sharing)
+- 💡 Always open to collaborating on interesting projects
+
 
 ---
 
-## 🧠 Tech Stack
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Tech Stack:
 
 ### 🚀 Frontend
-- React.js  
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Tailwind CSS / Bootstrap  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- JWT Authentication  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ### 🗄 Database
-- MongoDB  
-- Mongoose  
-- Data modeling & optimization  
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### 🧰 Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
-- npm  
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">  Connect With Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/hlw-ashok" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/hlw_ashok" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/hlw_ashok" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:hlwashok@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **GitHub Stats**
+
+<p align="left">
+  <!-- Overall GitHub Stats -->
+  <img
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api?username=hlwashok&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats for hlwashok"
+  />
+
+  <!-- Top Languages Used -->
+  <img
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/top-langs/?username=hlwashok&layout=compact&theme=github_dark&langs_count=8"
+    height="180"
+    alt="Top Languages for hlwashok"
+  />
+</p>
+
+
+
+
 
 ## 🏗 Project Showcase (Auto-Updating)
 
