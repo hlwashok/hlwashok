@@ -119,9 +119,8 @@ I’m **Ashok**, a **MERN Stack Developer** who builds **end-to-end web applicat
 
 
 ---
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hlwashok/hlwashok/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
 ---
