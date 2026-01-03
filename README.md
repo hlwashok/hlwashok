@@ -90,10 +90,10 @@ I’m **Ashok**, a **MERN Stack Developer** who builds **end-to-end web applicat
   </a>
 
   <!-- Email -->
-  <a href="mailto:hlwashok@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="mailto:hlwashok@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Ashok,%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect.">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 
 ---
 
