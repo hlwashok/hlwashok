@@ -1,0 +1,48 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color"
+          values="#38bdf8;#22d3ee;#a78bfa;#38bdf8"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a78bfa">
+        <animate attributeName="stop-color"
+          values="#a78bfa;#38bdf8;#22d3ee;#a78bfa"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="200" fill="#020617"/>
+
+  <!-- Main Text -->
+  <text
+    x="50%"
+    y="55%"
+    text-anchor="middle"
+    fill="url(#grad)"
+    font-size="52"
+    font-weight="800"
+    font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+    opacity="0">
+    Hi There 👋, I’m Ashok
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- Sub Text -->
+  <text
+    x="50%"
+    y="78%"
+    text-anchor="middle"
+    fill="#e5e7eb"
+    font-size="20"
+    font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+    opacity="0">
+    Full Stack MERN Developer | React • Node.js • MongoDB
+    <animate attributeName="opacity" from="0" to="1" dur="1.6s" fill="freeze"/>
+  </text>
+</svg>
