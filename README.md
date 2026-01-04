@@ -4,9 +4,7 @@
   alt="Hi There 👋, I'm Ashok"
 />
 
-
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+System+Thinking;Learning+Every+Day" />
 
 <br/>
@@ -26,6 +24,31 @@
 <strong>JavaScript • React • Node • Express • MongoDB</strong>
 
 </div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">  Connect With Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/hlw-ashok" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/hlw_ashok" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/hlw_ashok" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <!-- Email -->
+<a href="mailto:hlwashok@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Ashok,%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect.">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ---
 
@@ -76,29 +99,25 @@ I’m **Ashok**, a **MERN Stack Developer** who builds **end-to-end web applicat
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">  Connect With Me
+## 🏗 Project Showcase 
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/hlw-ashok" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 
-  <!-- Twitter -->
-  <a href="https://twitter.com/hlw_ashok" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/pin/?username=hlwashok&repo=Ashok_Portfoilo&theme=github_dark"
+    width="420"
+    alt="Ashok Portfolio Project"
+  />
+</p>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/hlw_ashok" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 
-  <!-- Email -->
-<a href="mailto:hlwashok@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Ashok,%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20connect.">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/pin/?username=hlwashok&repo=Learnova&theme=github_dark"
+    width="420"
+    alt="Ashok Portfolio Project"
+  />
+</p>
 
 ---
 
@@ -121,30 +140,6 @@ I’m **Ashok**, a **MERN Stack Developer** who builds **end-to-end web applicat
 ## 📈 Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hlwashok&theme=github-dark)
-
-
----
-
-
-## 🏗 Project Showcase 
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/pin/?username=hlwashok&repo=Ashok_Portfoilo&theme=github_dark"
-    width="420"
-    alt="Ashok Portfolio Project"
-  />
-</p>
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-tau-dusky-17.vercel.app/api/pin/?username=hlwashok&repo=Learnova&theme=github_dark"
-    width="420"
-    alt="Ashok Portfolio Project"
-  />
-</p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=16"/>
