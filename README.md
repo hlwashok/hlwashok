@@ -1,4 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hi%20There%20👋,%20I'm%20Ashok%20%20&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="Hi There 👋, I'm Ashok" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Hi%20There%20👋,%20I'm%20Ashok&fontSize=30&fontAlignY=80&color=gradient&customColorList=16&fontColor=ffffff&stroke=000000&strokeWidth=1"
+  alt="Hi There 👋, I'm Ashok"
+/>
+
 
 <div align="center">
 
