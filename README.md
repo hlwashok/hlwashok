@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <em>A curious computer geek and lifelong learner from India 🇮🇳</em>
+  <em>A curious computer geek and lifelong learner from India</em>
 </p>
 
 <!-- Profile Views -->
